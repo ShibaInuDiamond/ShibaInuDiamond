@@ -1,4 +1,4 @@
-# <img src="https://shibainudiamond.club/assets/images/hero/hero1.png" width="200" height="35"/>
+# <img src="https://shibainudiamond.club/assets/images/hero/hero1.png" width="200" height="300"/>
 
 
 ![Build Check](https://github.com/jpmorganchase/quorum/workflows/Build%20Check/badge.svg?branch=master)
