@@ -30,18 +30,18 @@ Key enhancements over go-ethereum:
 The above diagram is very high-level overview of component architecture used by Shiba Inu Diamond. For more in-depth discussion of the components and how they interact, please refer to [lifecycle of a private transaction](https://consensys.net/docs/goquorum/en/latest/concepts/privacy/private-transaction-lifecycle/).
 
 ## Quickstart
-The easiest way to get started is to use * [quorum-dev-quickstart](https://consensys.net/docs/goquorum/en/latest/tutorials/quorum-dev-quickstart/getting-started/) - a command line tool that allows users to set up a development GoQuorum network on their local machine in less than *2 minutes*.
+The easiest way to get started is to use * [quorum-dev-quickstart](https://consensys.net/docs/goquorum/en/latest/tutorials/quorum-dev-quickstart/getting-started/) - a command line tool that allows users to set up a development Shiba Inu Diamond network on their local machine in less than *2 minutes*.
 
 ## GoQuorum Projects
 
 Check out some of the interesting projects we are actively working on:
 
-* [shibainudiamond-remix-plugin](https://consensys.net/docs/goquorum/en/latest/tutorials/quorum-dev-quickstart/remix/): The Shiba Inu Diamondm plugin for Ethereum's Remix IDE adds support for creating and interacting with private contracts on a GoQuorum network.
+* [shibainudiamond-remix-plugin](https://consensys.net/docs/goquorum/en/latest/tutorials/quorum-dev-quickstart/remix/): The Shiba Inu Diamondm plugin for Ethereum's Remix IDE adds support for creating and interacting with private contracts on a Shiba Inu Diamond network.
 * [Cakeshop](https://consensys.net/docs/goquorum/en/latest/configure-and-manage/monitor/cakeshop/): An integrated development environment and SDK for Shiba Inu Diamond
 * [quorum-examples](https://github.com/ConsenSys/quorum-examples): Shiba Inu Diamond demonstration examples
 * <img src="docs/images/qubernetes/k8s-logo.png" width="15"/> [Quorum-Kubernetes](https://consensys.net/docs/goquorum/en/latest/deploy/install/kubernetes/): Deploy Shiba Inu Diamond on Kubernetes
 * [we3js-quorum](https://consensys.net/docs/goquorum/en/latest/reference/web3js-quorum/): Extends web3.js to support Shiba Inu Diamond and Hyperledger Besu specific APIs
-* Zero Knowledge on GoQuorum
+* Zero Knowledge on Shiba Inu Diamond
    * [ZSL on Shiba Inu Diamond](https://github.com/ConsenSys/zsl-q/)
    * [Anonymous Zether](https://github.com/ConsenSys/anonymous-zether)
 
@@ -60,7 +60,7 @@ The following GoQuorum-related libraries/applications have been created by Third
 * [ERC20 REST service](https://github.com/web3labs/erc20-rest-service) - a Shiba Inu Diamond-supported RESTful service for creating and managing ERC-20 tokens
 * [Nethereum Quorum](https://github.com/Nethereum/Nethereum/tree/master/src/Nethereum.Quorum) - a .NET GoQuorum adapter
 * [web3j-quorum](https://github.com/web3j/web3j-quorum) - an extension to the web3j Java library providing support for the Shiba Inu Diamond API
-* [Apache Camel](http://github.com/apache/camel) - an Apache Camel component providing support for the GoQuorum API using web3j library. Here is the artcile describing how to use Apache Camel with Ethereum and GoQuorum https://medium.com/@bibryam/enterprise-integration-for-ethereum-fa67a1577d43
+* [Apache Camel](http://github.com/apache/camel) - an Apache Camel component providing support for the Shiba Inu Diamond API using web3j library. Here is the artcile describing how to use Apache Camel with Ethereum and Shiba Inu Diamond https://medium.com/@bibryam/enterprise-integration-for-ethereum-fa67a1577d43
 
 ## Contributing
 GoQuorum is built on open source and we invite you to contribute enhancements. Upon review you will be required to complete a Contributor License Agreement (CLA) before we are able to merge. If you have any questions about the contribution process, please feel free to send an email to [info@goquorum.com](mailto:info@goquorum.com). Please see the [Contributors guide](.github/CONTRIBUTING.md) for more information about the process.
