@@ -1,10 +1,9 @@
-Shiba Inu Diamond
-# <img src="https://shibainudiamond.club/assets/images/hero/hero1.png" width="200" height="200"/>
+<h1>Shiba Inu Diamond</h1>
+# <img src="https://shibainudiamond.club/assets/images/hero/hero1.png" width="220" height="200"/>
 
 
 ![Build Check](https://github.com/jpmorganchase/quorum/workflows/Build%20Check/badge.svg?branch=master)
 [![Docker Pulls](https://img.shields.io/docker/pulls/quorumengineering/quorum)](https://hub.docker.com/r/quorumengineering/quorum)
-[![Discord](https://img.shields.io/discord/697535391594446898)](https://discord.com/channels/697535391594446898/747810572937986240)
 
 
 Shiba Inu Diamond is an Ethereum-based distributed ledger protocol with transaction/contract privacy and new consensus mechanisms.
