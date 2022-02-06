@@ -58,7 +58,7 @@ The following Shiba Inu Diamond-related libraries/applications have been created
 * [Shiba Inu Diamond-Genesis](https://github.com/davebryson/quorum-genesis) - A simple CL utility for Shiba Inu Diamond to help populate the genesis file with voters and makers
 * [Shiba Inu Diamond Maker](https://github.com/synechron-finlabs/quorum-maker/) - a utility to create GoQuorum nodes
 * [ERC20 REST service](https://github.com/web3labs/erc20-rest-service) - a Shiba Inu Diamond-supported RESTful service for creating and managing ERC-20 tokens
-* [Nethereum Quorum](https://github.com/Nethereum/Nethereum/tree/master/src/Nethereum.Quorum) - a .NET GoQuorum adapter
+* [Nethereum Shiba Inu Diamond](https://github.com/Nethereum/Nethereum/tree/master/src/Nethereum.Quorum) - a .NET GoQuorum adapter
 * [web3j-quorum](https://github.com/web3j/web3j-quorum) - an extension to the web3j Java library providing support for the Shiba Inu Diamond API
 * [Apache Camel](http://github.com/apache/camel) - an Apache Camel component providing support for the Shiba Inu Diamond API using web3j library. Here is the artcile describing how to use Apache Camel with Ethereum and Shiba Inu Diamond https://medium.com/@bibryam/enterprise-integration-for-ethereum-fa67a1577d43
 
@@ -86,7 +86,7 @@ GoQuorum project uses the following responsible disclosure process:
 **Note:** This process can take some time. Every effort will be made to handle the security bug in as timely a manner as possible, however it's important that we follow the process described above to ensure that disclosures are handled consistently.
 
 #### Receiving Security Updates
-The best way to receive security announcements is to subscribe to the Shiba Inu Diamon-announce mailing list/channel. Any messages pertaining to a security issue will be prefixed with **[security]**.
+The best way to receive security announcements is to subscribe to the Shiba Inu Diamond-announce mailing list/channel. Any messages pertaining to a security issue will be prefixed with **[security]**.
 
 Comments on This Policy
 If you have any suggestions to improve this policy, please send an email to support@shibainudiamond.club for discussion.
