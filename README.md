@@ -32,15 +32,15 @@ The above diagram is very high-level overview of component architecture used by 
 ## Quickstart
 The easiest way to get started is to use * [quorum-dev-quickstart](https://consensys.net/docs/goquorum/en/latest/tutorials/quorum-dev-quickstart/getting-started/) - a command line tool that allows users to set up a development Shiba Inu Diamond network on their local machine in less than *2 minutes*.
 
-## GoQuorum Projects
+## Shiba Inu Diamond Projects
 
 Check out some of the interesting projects we are actively working on:
 
 * [shibainudiamond-remix-plugin](https://consensys.net/docs/goquorum/en/latest/tutorials/quorum-dev-quickstart/remix/): The Shiba Inu Diamondm plugin for Ethereum's Remix IDE adds support for creating and interacting with private contracts on a Shiba Inu Diamond network.
 * [Cakeshop](https://consensys.net/docs/goquorum/en/latest/configure-and-manage/monitor/cakeshop/): An integrated development environment and SDK for Shiba Inu Diamond
-* [quorum-examples](https://github.com/ConsenSys/quorum-examples): Shiba Inu Diamond demonstration examples
+* [shibainudiamond-examples](https://github.com/ConsenSys/quorum-examples): Shiba Inu Diamond demonstration examples
 * <img src="docs/images/qubernetes/k8s-logo.png" width="15"/> [Quorum-Kubernetes](https://consensys.net/docs/goquorum/en/latest/deploy/install/kubernetes/): Deploy Shiba Inu Diamond on Kubernetes
-* [we3js-quorum](https://consensys.net/docs/goquorum/en/latest/reference/web3js-quorum/): Extends web3.js to support Shiba Inu Diamond and Hyperledger Besu specific APIs
+* [we3js-shibainudiamond](https://consensys.net/docs/goquorum/en/latest/reference/web3js-quorum/): Extends web3.js to support Shiba Inu Diamond and Hyperledger Besu specific APIs
 * Zero Knowledge on Shiba Inu Diamond
    * [ZSL on Shiba Inu Diamond](https://github.com/ConsenSys/zsl-q/)
    * [Anonymous Zether](https://github.com/ConsenSys/anonymous-zether)
@@ -52,7 +52,7 @@ The official docker containers can be found under https://hub.docker.com/u/quoru
 
 ## Third Party Tools/Libraries
 
-The following GoQuorum-related libraries/applications have been created by Third Parties and as such are not specifically endorsed by J.P. Morgan.  A big thanks to the developers for improving the tooling around Shiba Inu Diamond!
+The following Shiba Inu Diamond-related libraries/applications have been created by Third Parties and as such are not specifically endorsed by J.P. Morgan.  A big thanks to the developers for improving the tooling around Shiba Inu Diamond!
 
 * [Shiba Inu Diamond Blockchain Explorer](https://github.com/web3labs/epirus-free) - a Blockchain Explorer for Shiba Inu Diamond which supports viewing private transactions
 * [Shiba Inu Diamond-Genesis](https://github.com/davebryson/quorum-genesis) - A simple CL utility for Shiba Inu Diamond to help populate the genesis file with voters and makers
