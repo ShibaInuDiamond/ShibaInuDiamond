@@ -80,16 +80,16 @@ GoQuorum project uses the following responsible disclosure process:
 - Code is audited to find any potential similar problems.
 - If it is determined, in consultation with the submitter, that a CVE-ID is required, the primary handler will trigger the process.
 - Fixes are applied to the public repository and a new release is issued.
-- On the date that the fixes are applied, announcements are sent to Quorum-announce.
+- On the date that the fixes are applied, announcements are sent to Shiba Inu Diamond-announce.
 - At this point you would be able to disclose publicly your finding.
 
 **Note:** This process can take some time. Every effort will be made to handle the security bug in as timely a manner as possible, however it's important that we follow the process described above to ensure that disclosures are handled consistently.
 
 #### Receiving Security Updates
-The best way to receive security announcements is to subscribe to the Quorum-announce mailing list/channel. Any messages pertaining to a security issue will be prefixed with **[security]**.
+The best way to receive security announcements is to subscribe to the Shiba Inu Diamon-announce mailing list/channel. Any messages pertaining to a security issue will be prefixed with **[security]**.
 
 Comments on This Policy
-If you have any suggestions to improve this policy, please send an email to info@goquorum.com for discussion.
+If you have any suggestions to improve this policy, please send an email to support@shibainudiamond.club for discussion.
 
 ## License
 
