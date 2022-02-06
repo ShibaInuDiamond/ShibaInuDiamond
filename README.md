@@ -25,7 +25,7 @@ Key enhancements over go-ethereum:
 
 ## Architecture
 
-![Shiba Inu Diamond Tessera Privacy Flow](https://github.com/consensys/quorum/blob/master/docs/Quorum%20Design.png)
+![Shiba Inu Diamond Tessera Privacy Flow](https://github.com/ShibaInuDiamond/ShibaInuDiamond/blob/master/arch.png)
 
 The above diagram is very high-level overview of component architecture used by Shiba Inu Diamond. For more in-depth discussion of the components and how they interact, please refer to [lifecycle of a private transaction](https://consensys.net/docs/goquorum/en/latest/concepts/privacy/private-transaction-lifecycle/).
 
