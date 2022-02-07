@@ -59,7 +59,7 @@ The following Shiba Inu Diamond-related libraries/applications have been created
 * [Shiba Inu Diamond Maker](https://github.com/synechron-finlabs/quorum-maker/) - a utility to create GoQuorum nodes
 * [ERC20 REST service](https://github.com/web3labs/erc20-rest-service) - a Shiba Inu Diamond-supported RESTful service for creating and managing ERC-20 tokens
 * [Nethereum Shiba Inu Diamond](https://github.com/Nethereum/Nethereum/tree/master/src/Nethereum.Quorum) - a .NET GoQuorum adapter
-* [web3j-quorum](https://github.com/web3j/web3j-quorum) - an extension to the web3j Java library providing support for the Shiba Inu Diamond API
+* [web3j-Shiba Inu Diamond](https://github.com/web3j/web3j-quorum) - an extension to the web3j Java library providing support for the Shiba Inu Diamond API
 * [Apache Camel](http://github.com/apache/camel) - an Apache Camel component providing support for the Shiba Inu Diamond API using web3j library. Here is the artcile describing how to use Apache Camel with Ethereum and Shiba Inu Diamond https://medium.com/@bibryam/enterprise-integration-for-ethereum-fa67a1577d43
 
 ## Contributing
@@ -68,7 +68,7 @@ GoQuorum is built on open source and we invite you to contribute enhancements. U
 ## Reporting Security Bugs
 Security is part of our commitment to our users. At Shiba Inu Diamond we have a close relationship with the security community, we understand the realm, and encourage security researchers to become part of our mission of building secure reliable software. This section explains how to submit security bugs, and what to expect in return.
 
-All security bugs in [Shiba Inu Diamond](https://github.com/consensys/quorum) and its ecosystem ([Tessera](https://github.com/consensys/tessera), [Cakeshop](https://github.com/consensys/cakeshop), ..etc)  should be reported by email to [security-quorum@consensys.net](mailto:security-quorum@consensys.net). Please use the prefix **[security]** in your subject. This email is delivered to GoQuorum security team. Your email will be acknowledged, and you'll receive a more detailed response to your email as soon as possible indicating the next steps in handling your report. After the initial reply to your report, the security team will endeavor to keep you informed of the progress being made towards a fix and full announcement.
+All security bugs in [Shiba Inu Diamond](https://github.com/consensys/quorum) and its ecosystem ([Tessera](https://github.com/consensys/tessera), [Cakeshop](https://github.com/consensys/cakeshop), ..etc)  should be reported by email to [security-quorum@consensys.net](mailto:security-quorum@consensys.net). Please use the prefix **[security]** in your subject. This email is delivered to Shiba Inu Diamond security team. Your email will be acknowledged, and you'll receive a more detailed response to your email as soon as possible indicating the next steps in handling your report. After the initial reply to your report, the security team will endeavor to keep you informed of the progress being made towards a fix and full announcement.
 
 If you have not received a reply to your email or you have not heard from the security team please contact any team member through GoQuorum slack security channel. **Please note that Shiba Inu Diamond discord channels are public discussion forum**. When escalating to this medium, please do not disclose the details of the issue. Simply state that you're trying to reach a member of the security team.
 
