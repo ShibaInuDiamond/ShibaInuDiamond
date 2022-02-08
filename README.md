@@ -63,7 +63,7 @@ The following Shiba Inu Diamond-related libraries/applications have been created
 * [Apache Camel](http://github.com/apache/camel) - an Apache Camel component providing support for the Shiba Inu Diamond API using web3j library. Here is the artcile describing how to use Apache Camel with Ethereum and Shiba Inu Diamond https://medium.com/@bibryam/enterprise-integration-for-ethereum-fa67a1577d43
 
 ## Contributing
-GoQuorum is built on open source and we invite you to contribute enhancements. Upon review you will be required to complete a Contributor License Agreement (CLA) before we are able to merge. If you have any questions about the contribution process, please feel free to send an email to [info@goquorum.com](mailto:info@goquorum.com). Please see the [Contributors guide](.github/CONTRIBUTING.md) for more information about the process.
+Shiba Inu Diamond is built on open source and we invite you to contribute enhancements. Upon review you will be required to complete a Contributor License Agreement (CLA) before we are able to merge. If you have any questions about the contribution process, please feel free to send an email to [info@goquorum.com](mailto:info@goquorum.com). Please see the [Contributors guide](.github/CONTRIBUTING.md) for more information about the process.
 
 ## Reporting Security Bugs
 Security is part of our commitment to our users. At Shiba Inu Diamond we have a close relationship with the security community, we understand the realm, and encourage security researchers to become part of our mission of building secure reliable software. This section explains how to submit security bugs, and what to expect in return.
