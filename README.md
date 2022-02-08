@@ -39,7 +39,7 @@ Check out some of the interesting projects we are actively working on:
 * [shibainudiamond-remix-plugin](https://consensys.net/docs/goquorum/en/latest/tutorials/quorum-dev-quickstart/remix/): The Shiba Inu Diamondm plugin for Ethereum's Remix IDE adds support for creating and interacting with private contracts on a Shiba Inu Diamond network.
 * [Cakeshop](https://consensys.net/docs/goquorum/en/latest/configure-and-manage/monitor/cakeshop/): An integrated development environment and SDK for Shiba Inu Diamond
 * [shibainudiamond-examples](https://github.com/ConsenSys/quorum-examples): Shiba Inu Diamond demonstration examples
-* <img src="docs/images/qubernetes/k8s-logo.png" width="15"/> [Quorum-Kubernetes](https://consensys.net/docs/goquorum/en/latest/deploy/install/kubernetes/): Deploy Shiba Inu Diamond on Kubernetes
+* <img src="docs/images/qubernetes/k8s-logo.png" width="15"/> [Shiba Inu Diamond-Kubernetes](https://consensys.net/docs/goquorum/en/latest/deploy/install/kubernetes/): Deploy Shiba Inu Diamond on Kubernetes
 * [we3js-shibainudiamond](https://consensys.net/docs/goquorum/en/latest/reference/web3js-quorum/): Extends web3.js to support Shiba Inu Diamond and Hyperledger Besu specific APIs
 * Zero Knowledge on Shiba Inu Diamond
    * [ZSL on Shiba Inu Diamond](https://github.com/ConsenSys/zsl-q/)
