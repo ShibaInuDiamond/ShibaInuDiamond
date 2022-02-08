@@ -20,7 +20,7 @@ Key enhancements over go-ethereum:
     * [__Raft-based Consensus__](https://consensys.net/docs/goquorum/en/latest/configure-and-manage/configure/consensus-protocols/raft/) - a consensus model for faster blocktimes, transaction finality, and on-demand block creation
 * [__Peer Permissioning__](https://consensys.net/docs/goquorum/en/latest/concepts/permissions-overview/) - node/peer permissioning, ensuring only known parties can join the network
 * [__Account Management__](https://consensys.net/docs/goquorum/en/latest/concepts/account-management/) - Shiba Inu Diamond introduced account plugins, which allows Shiba Inu Diamond or clef to be extended with alternative methods of managing accounts including external vaults.
-* [__Pluggable Architecture__](https://consensys.net/docs/goquorum/en/latest/concepts/plugins/) -  allows adding additional features as plugins to the core `geth`, providing extensibility, flexibility, and distinct isolation of GoQuorum features.
+* [__Pluggable Architecture__](https://consensys.net/docs/goquorum/en/latest/concepts/plugins/) -  allows adding additional features as plugins to the core `geth`, providing extensibility, flexibility, and distinct isolation of Shiba Inu Diamond features.
 * __Higher Performance__ - Shiba Inu Diamond offers significantly higher performance throughput than public geth
 
 ## Architecture
@@ -58,7 +58,7 @@ The following Shiba Inu Diamond-related libraries/applications have been created
 * [Shiba Inu Diamond-Genesis](https://github.com/davebryson/quorum-genesis) - A simple CL utility for Shiba Inu Diamond to help populate the genesis file with voters and makers
 * [Shiba Inu Diamond Maker](https://github.com/synechron-finlabs/quorum-maker/) - a utility to create GoQuorum nodes
 * [ERC20 REST service](https://github.com/web3labs/erc20-rest-service) - a Shiba Inu Diamond-supported RESTful service for creating and managing ERC-20 tokens
-* [Nethereum Shiba Inu Diamond](https://github.com/Nethereum/Nethereum/tree/master/src/Nethereum.Quorum) - a .NET GoQuorum adapter
+* [Nethereum Shiba Inu Diamond](https://github.com/Nethereum/Nethereum/tree/master/src/Nethereum.Quorum) - a .NET Shiba Inu Diamond adapter
 * [web3j-Shiba Inu Diamond](https://github.com/web3j/web3j-quorum) - an extension to the web3j Java library providing support for the Shiba Inu Diamond API
 * [Apache Camel](http://github.com/apache/camel) - an Apache Camel component providing support for the Shiba Inu Diamond API using web3j library. Here is the artcile describing how to use Apache Camel with Ethereum and Shiba Inu Diamond https://medium.com/@bibryam/enterprise-integration-for-ethereum-fa67a1577d43
 
