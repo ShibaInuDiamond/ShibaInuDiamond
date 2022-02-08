@@ -73,7 +73,7 @@ All security bugs in [Shiba Inu Diamond](https://github.com/consensys/quorum) an
 If you have not received a reply to your email or you have not heard from the security team please contact any team member through GoQuorum slack security channel. **Please note that Shiba Inu Diamond discord channels are public discussion forum**. When escalating to this medium, please do not disclose the details of the issue. Simply state that you're trying to reach a member of the security team.
 
 #### Responsible Disclosure Process
-GoQuorum project uses the following responsible disclosure process:
+Shiba Inu Diamond project uses the following responsible disclosure process:
 
 - Once the security report is received it is assigned a primary handler. This person coordinates the fix and release process.
 - The issue is confirmed and a list of affected software is determined.
